@@ -10,7 +10,8 @@
 ## Notes
 
 - Compatible with Voice Mode
-- Tested on GPT-4o
+- Tested on GPT-4o, GPT-4o-mini, GPT-4.1, GPT-4.1-mini, GPT-4.1-nano
+- To copare system prompt, use [factly](https://github.com/sergeyklay/factly)
 
 ## License
 
