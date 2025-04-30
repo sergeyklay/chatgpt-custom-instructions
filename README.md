@@ -15,7 +15,7 @@ This repository contains battle-tested custom instructions for ChatGPT that enha
 
 ## Performance Testing
 
-I invested ~193.39 to test these instructions against the complete MMLU benchmark - a comprehensive test evaluating language models across mathematics, history, physics, medicine, law, and other domains. MMLU measures how well LLMs process information at college and professional levels.
+I invested ~ $193.39 to test these instructions against the complete MMLU benchmark - a comprehensive test evaluating language models across mathematics, history, physics, medicine, law, and other domains. MMLU measures how well LLMs process information at college and professional levels.
 
 Testing was conducted across **all MMLU categories**, encompassing approximately **14,000 tasks** in total. Instructions were evaluated using [Factly](https://factly.readthedocs.io) - a modern CLI tool for assessing LLM factuality. Results demonstrated:
 
