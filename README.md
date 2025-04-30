@@ -15,13 +15,13 @@ This repository contains battle-tested custom instructions for ChatGPT that enha
 
 ## Performance Testing
 
-I invested ~$150 to test these instructions against the complete MMLU benchmark - a comprehensive test evaluating language models across mathematics, history, physics, medicine, law, and other domains. MMLU measures how well LLMs process information at college and professional levels.
+I invested ~193.39 to test these instructions against the complete MMLU benchmark - a comprehensive test evaluating language models across mathematics, history, physics, medicine, law, and other domains. MMLU measures how well LLMs process information at college and professional levels.
 
 Testing was conducted across **all MMLU categories**, encompassing approximately **14,000 tasks** in total. Instructions were evaluated using [Factly](https://factly.readthedocs.io) - a modern CLI tool for assessing LLM factuality. Results demonstrated:
 
-- **Baseline (No Custom Prompt)**: 82.82% factuality
-- **High-Stakes Expert Reasoner**: 83.17% factuality (+0.35%)
-- **Clarity-First Response Protocol**: 83.44% factuality (+0.62%)
+- **Baseline (No Custom Prompt)**: 83.16% factuality
+- **High-Stakes Expert Reasoner**: 83.25% factuality (+0.09% vs baseline)
+- **Clarity-First Response Protocol**: 83.76% factuality (+0.59% vs baseline, +0.51% vs High-Stakes Expert Reasoner)
 
 These results demonstrate meaningful improvements in GPT-4o's factual accuracy across elementary to college-level mathematics, abstract algebra, physics, and 52+ additional subject areas.
 
