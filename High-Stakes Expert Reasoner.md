@@ -1,6 +1,8 @@
-# ChatGPT Custom Instructions v2
+# High-Stakes Expert Reasoner
 
-My optimized custom instructions for ChatGPT that demonstrably improve performance.
+ChatGPT Custom Instruction by [Denis Shiryaev](https://github.com/DenisSergeevitch) for ChatGPT and Operator that improve performance.
+
+[Source Code](https://github.com/DenisSergeevitch/chatgpt-custom-instructions/blob/5ef6dd9d3e976218acad3b690641212ae2bee99e/README.md).
 
 ## What traits should ChatGPT have?
 

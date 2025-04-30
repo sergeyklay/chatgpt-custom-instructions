@@ -1,4 +1,4 @@
-# ChatGPT Custom Instructions v1
+# Clarity-First Response Protocol
 
 My optimized custom instructions for ChatGPT that demonstrably improve performance.
 
