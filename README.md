@@ -10,8 +10,8 @@ This repository contains battle-tested custom instructions for ChatGPT that enha
 
 ## Custom Instructions
 
-- [High-Stakes Expert Reasoner](High-Stakes-Expert-Reasoner.md) - Optimizes for detailed expert-level responses with concrete reasoning.
-- [Clarity-First Response Protocol](Clarity-First-Response-Protocol.md) - Focuses on clear, concise communication with structured information.
+- [High-Stakes Expert Reasoner](High-Stakes%20Expert%20Reasoner.md) - Optimizes for detailed expert-level responses with concrete reasoning.
+- [Clarity-First Response Protocol](Clarity-First%20Response%20Protocol.md) - Focuses on clear, concise communication with structured information.
 
 ## Performance Testing
 
